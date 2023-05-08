@@ -22,6 +22,8 @@ function Car(props) {
 
             {2 + 2}
 
+// <h1>shu joyini githubni o'zidan o'zgartirdim githubdan qayta skachat qilinganda shu izohxam skachat bo'lishi kerak<h1/>
+
         </div>
 
     )
